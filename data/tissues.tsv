@@ -1,0 +1,55 @@
+SMTS	SMTSD	count
+Adipose Tissue	Adipose - Subcutaneous	178
+Adipose Tissue	Adipose - Visceral (Omentum)	31
+Adrenal Gland	Adrenal Gland	57
+Bladder	Bladder	11
+Blood	Cells - EBV-transformed lymphocytes	61
+Blood	Whole Blood	648
+Blood Vessel	Artery - Aorta	86
+Blood Vessel	Artery - Coronary	47
+Blood Vessel	Artery - Tibial	224
+Bone Marrow	Cells - Leukemia cell line (CML)	63
+Brain	Brain - Amygdala	45
+Brain	Brain - Anterior cingulate cortex (BA24)	41
+Brain	Brain - Caudate (basal ganglia)	64
+Brain	Brain - Cerebellar Hemisphere	48
+Brain	Brain - Cerebellum	57
+Brain	Brain - Cortex	50
+Brain	Brain - Frontal Cortex (BA9)	50
+Brain	Brain - Hippocampus	51
+Brain	Brain - Hypothalamus	51
+Brain	Brain - Nucleus accumbens (basal ganglia)	58
+Brain	Brain - Putamen (basal ganglia)	40
+Brain	Brain - Spinal cord (cervical c-1)	32
+Brain	Brain - Substantia nigra	43
+Breast	Breast - Mammary Tissue	66
+Cervix Uteri	Cervix - Ectocervix	6
+Cervix Uteri	Cervix - Endocervix	4
+Colon	Colon - Sigmoid	16
+Colon	Colon - Transverse	72
+Esophagus	Esophagus - Gastroesophageal Junction	25
+Esophagus	Esophagus - Mucosa	115
+Esophagus	Esophagus - Muscularis	117
+Fallopian Tube	Fallopian Tube	7
+Heart	Heart - Atrial Appendage	43
+Heart	Heart - Left Ventricle	175
+Kidney	Kidney - Cortex	8
+Liver	Liver	36
+Lung	Lung	253
+Muscle	Muscle - Skeletal	264
+Nerve	Nerve - Tibial	181
+Ovary	Ovary	39
+Pancreas	Pancreas	71
+Pituitary	Pituitary	25
+Prostate	Prostate	44
+Salivary Gland	Minor Salivary Gland	6
+Skin	Cells - Transformed fibroblasts	161
+Skin	Skin - Not Sun Exposed (Suprapubic)	43
+Skin	Skin - Sun Exposed (Lower leg)	210
+Small Intestine	Small Intestine - Terminal Ileum	17
+Spleen	Spleen	37
+Stomach	Stomach	81
+Testis	Testis	67
+Thyroid	Thyroid	203
+Uterus	Uterus	36
+Vagina	Vagina	35
